@@ -5,4 +5,4 @@ For the bot to work you need a bot token, how to do it look at YouTube. Insert t
 
 To activate generator print in the text channel 'Nitro.generate'.
 
-link to invite bot on the server - https://discord.com/api/oauth2/authorize?client_id=772506820970807336&permissions=8&scope=bot
+
