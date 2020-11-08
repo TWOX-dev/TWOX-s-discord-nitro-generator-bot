@@ -1,7 +1,8 @@
 import discord 
 from discord.ext import commands
 from time import sleep 
-import random,string
+import random
+import string
 token = ''
 bot = commands.Bot(command_prefix='Nitro.')
 @bot.event
