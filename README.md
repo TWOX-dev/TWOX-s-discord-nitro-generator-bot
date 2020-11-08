@@ -5,4 +5,6 @@ For the bot to work you need a bot token, how to do it look at YouTube. Insert t
 
 To activate generator print in the text channel 'Nitro.generate'.
 
+To stop bot just close cmd.
+
 
